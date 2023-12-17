@@ -1,0 +1,7 @@
+beautifulsoup4
+numpy
+opencv_python
+Pillow
+PyAutoGUI
+pynput
+Requests
