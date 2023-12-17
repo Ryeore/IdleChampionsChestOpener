@@ -90,9 +90,6 @@ def used(temp):
         return False
 
 
-lista = ['ODAHRIFEHIZZ', 'SUNNY&CASUAL', 'DEVSFANKMERI', 'NEALCHASNABS', 'SHIMMAXIWAKE', 'DEIFPOLEOLES',
-         'VACATIONSOON', 'SKEOINBYOMER']
-
 for code in lista:
     time.sleep(2)
     match_location(unlock_chest)
